@@ -5,7 +5,7 @@ and Rutgers Astronomical Society (RAS) astro hack sessions.
 ## Getting started
 Please download or clone the repository using:
 
-    git clone https://github.com/jwuphysics/astro-hack-2018-spring
+    git clone https://github.com/rutgers-physics-ml/astro-hack-2018-spring
 
 
 You will need Anaconda Python 3.5 or later, and we will supply all
