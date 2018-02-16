@@ -8,7 +8,7 @@ Please download or clone the repository using:
     git clone https://github.com/rutgers-physics-ml/astro-hack-2018-spring
 
 
-You will need Anaconda Python 3.5 or later, and we will supply all
+You will need Anaconda Python 3.6 or later, and we will supply all
 necessary packages. Note that you will need an internet connection.
 First add the `conda-forge` channel for access to some necessary
 Python packages:
@@ -17,7 +17,7 @@ Python packages:
 
 Install the rest of the packages by running:
 
-    conda env create -f src/environment.yml
+    conda env create -f environment.yml
 
 These packages have now been installed on your system, to a virtual
 environment in Anaconda Python named `astrohack`.
