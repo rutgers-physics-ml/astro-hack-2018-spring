@@ -9,6 +9,7 @@ dependencies:
   - matplotlib
   - astropy
   - astroml
+  - aplpy
   - astroquery
   - tensorflow
   - keras
