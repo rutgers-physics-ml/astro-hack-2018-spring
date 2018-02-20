@@ -11,6 +11,8 @@ dependencies:
   - astroml
   - aplpy
   - astroquery
+  - scikit-learn
+  - scikit-image
   - tensorflow
   - keras
   - opencv
