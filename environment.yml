@@ -1,0 +1,19 @@
+name: astrohack
+
+dependencies:
+  - python=3.6
+  - ipython
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - astropy
+  - astroml
+  - aplpy
+  - astroquery
+  - scikit-learn
+  - scikit-image
+  - tensorflow
+  - keras
+  - opencv
+  - tqdm
