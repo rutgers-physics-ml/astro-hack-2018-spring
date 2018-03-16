@@ -27,3 +27,17 @@ You will need to *activate* the `astrohack` environment before executing any
 code or serving any Jupyter notebooks. This can be accomplished by running:
 
     source activate astrohack
+
+## Jupyter notebooks
+You can view execute Jupyter notebooks (formerly IPython notebooks) by 
+running the command:
+
+    jupyter notebook
+
+You can specify a browser type or port number by using the flags
+    
+    jupyter notebook --browser=firefox --port=8888
+
+At this point, Jupyter will serve a notebook at `localhost:8888`. You can 
+stop the notebook at any time by using the keyboard command `<Ctrl-c>`.
+
