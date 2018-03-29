@@ -17,3 +17,6 @@ dependencies:
   - keras
   - opencv
   - tqdm
+  - pandas
+  - seaborn
+  - emcee
