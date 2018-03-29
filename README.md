@@ -10,10 +10,11 @@ Please download or clone the repository using:
 
 You will need Anaconda Python 3.6 or later, and we will supply all
 necessary packages. Note that you will need an internet connection.
-First add the `conda-forge` channel for access to some necessary
-Python packages:
+First add the `conda-forge` and `astropy` channels for access to some 
+necessary Python packages:
 
     conda config --add channels conda-forge
+    conda config --add channels astropy
 
 Install the rest of the packages by running:
 
