@@ -42,3 +42,5 @@ You can specify a browser type or port number by using the flags
 At this point, Jupyter will serve a notebook at `localhost:8888`. You can 
 stop the notebook at any time by using the keyboard command `<Ctrl-c>`.
 
+The Virtual Machine for the 29th March hack day can be found [here](https://drive.google.com/file/d/1ZWVIO1uXxbYZ5qhPhrNLQmMFAqh2XWCa/view).
+
